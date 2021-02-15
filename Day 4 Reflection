@@ -1,0 +1,3 @@
+The data in the above excel sheet shows flight delays by different carrier agencies in the United States. If we could develop an algorithm that predicts based on data the time delay for a specific flight, then people will be able to better schedule their meetings and vacations based on the true arrival time for a specific flight. This will enable passengers to be on time for their meetings and other obligations. 
+
+The Deep Machine learning algorithm that could be used here is Long term short memory network. This is because the algorithm  predicts an output based on previous inputs. The output which is the prediction could be helpful for anyone willing to book a flight  in any of the carrier agencies in the data set. 
