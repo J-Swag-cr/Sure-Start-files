@@ -1,0 +1,5 @@
+Tensor flow is a second machine learning framework that google created and it is used to build and train deep learning models. It is very useful for computations(using data flow graphs). 
+A tensor is a mathematical representation of a physical entity that may be characterized by magnitude and direction. It can be represented by an array of 3D space. 
+Example is 3R with R being the rank of the Tensor.
+It is interesting how a series of images could be collected and converted into figures and numbers that could be ploted using a histogram. 
+After plotting a histogram on the distribution of traffic signs, I realised that it was unevenly distributed with label 22,32,38 and 61 having the highest distribution. 
